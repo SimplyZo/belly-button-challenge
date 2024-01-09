@@ -11,8 +11,6 @@ The metaData() function displays various metadata fields for the selected sample
 
 In summary, this code allows for dynamic and interactive exploration of bacterial data through customizable data visualizations and metadata display. The dashboard provides insights into both the diversity and relative quantity of microbes found in study participants.
 
-Here is a half page README for the HTML page in the attachment:
-
 ## Belly Button Biodiversity Dashboard - html
 
 This HTML page provides the layout and structure for an interactive dashboard visualizing bacterial data from belly button samples. Key elements:
